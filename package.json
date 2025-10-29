@@ -1,5 +1,5 @@
 {
-  "name": "mcp-frontend-testing",
+  "name": "@iflow-mcp/mcp-frontend-testing",
   "version": "1.0.0",
   "description": "MCP server for frontend testing with Jest and Cypress",
   "main": "dist/index.js",

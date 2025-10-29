@@ -21,7 +21,6 @@ async function main() {
     const transport = values.transport;
     if (transport === 'stdio') {
         await startStdioServer();
-        // console.info('Stdio server started');
     }
     else if (transport === 'http') {
         const port = parseInt(values.port);
